@@ -8,5 +8,5 @@ Outside of coding, I play **Squash** and hope to compete at a professional level
 
 ## Links
 
-* Portfolio: [**your-portfolio.com**](https://preferedev.xyz)
-* X: [**@yourusername**](https://x.com/preferedev)
+* Portfolio: [**preferedev.xyz**](https://preferedev.xyz)
+* X: [**@preferedev**](https://x.com/preferedev)
