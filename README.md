@@ -1,11 +1,4 @@
-<!--
-  GitHub profile README — mirrors portfolio-render.html.
-  Push this folder (README.md + assets/) to github.com/<username>/<username>
--->
-
-# Abdullah Mehdi
-
-AI developer
+# Abdullah Mehdi - AI developer
 
 <p>
   <a href="https://github.com/preferedev"><img src="https://cdn.simpleicons.org/github/a1a1aa" height="20" alt="GitHub" /></a>&nbsp;&nbsp;
@@ -19,34 +12,6 @@ hi, I'm mehdi, an AI & Full stack developer, I've been developing since I was 10
 <p>
   <a href="mailto:mehdi@preferedev.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=maildotru&logoColor=e4e4e7" /></a>
   <a href="https://x.com/preferedev"><img alt="Message" src="https://img.shields.io/badge/Message-0a0a0a?style=for-the-badge&logo=x&logoColor=e4e4e7" /></a>
-</p>
-
-## Skills
-
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="18" alt="" />&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="18" alt="" />&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="18" alt="" />&nbsp;TypeScript&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="18" alt="" />&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="18" alt="" />&nbsp;Next.js&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="18" alt="" />&nbsp;Tailwind CSS
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="18" alt="" />&nbsp;shadcn&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="18" alt="" />&nbsp;FastAPI&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="18" alt="" />&nbsp;PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="18" alt="" />&nbsp;Supabase&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="18" alt="" />&nbsp;Docker&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="18" alt="" />&nbsp;Vercel
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="18" alt="" />&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/000000" height="18" alt="" />&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" height="18" alt="" />&nbsp;Codex&nbsp;&nbsp;&nbsp;&nbsp;
-  Herdr&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/000000" height="18" alt="" />&nbsp;Cursor
 </p>
 
 ## Projects
