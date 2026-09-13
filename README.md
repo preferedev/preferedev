@@ -1,69 +1,82 @@
 <!--
-  GitHub portfolio README — visually matches the personal site.
-  Replace REPLACE_ME links before publishing to your profile repo
-  (github.com/USERNAME/USERNAME). Keep the assets/icons folder with this file.
+  GitHub profile README — mirrors portfolio-render.html.
+  Push this folder (README.md + assets/) to github.com/<username>/<username>
 -->
 
+# Abdullah Mehdi
+
+AI developer
+
 <p>
-  <img src="assets/icons/name.png" height="42" alt="Abdullah Mehdi" />
+  <a href="https://github.com/preferedev"><img src="https://cdn.simpleicons.org/github/a1a1aa" height="20" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/preferedev"><img src="https://cdn.simpleicons.org/linkedin/a1a1aa" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/preferedev"><img src="https://cdn.simpleicons.org/x/a1a1aa" height="20" alt="X" /></a>&nbsp;&nbsp;
+  <a href="mailto:mehdi@preferedev.xyz"><img src="https://cdn.jsdelivr.net/npm/lucide-static@0.454.0/icons/mail.svg" height="20" alt="Email" /></a>
+</p>
+
+hi, I'm mehdi, an AI & Full stack developer, I've been developing since I was 10, I create AI integrated full stack applications, developer tools, opensource projects and work with Python, LLMs, Generative AI, and RAG.
+
+<p>
+  <a href="mailto:mehdi@preferedev.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=maildotru&logoColor=e4e4e7" /></a>
+  <a href="https://x.com/preferedev"><img alt="Message" src="https://img.shields.io/badge/Message-0a0a0a?style=for-the-badge&logo=x&logoColor=e4e4e7" /></a>
+</p>
+
+## Skills
+
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="18" alt="" />&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="18" alt="" />&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="18" alt="" />&nbsp;TypeScript&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="18" alt="" />&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="18" alt="" />&nbsp;Next.js&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="18" alt="" />&nbsp;Tailwind CSS
 </p>
 
 <p>
-  <img src="assets/icons/subtitle.png" height="22" alt="AI developer" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="18" alt="" />&nbsp;shadcn&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="18" alt="" />&nbsp;FastAPI&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="18" alt="" />&nbsp;PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="18" alt="" />&nbsp;Supabase&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="18" alt="" />&nbsp;Docker&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="18" alt="" />&nbsp;Vercel
 </p>
 
 <p>
-  <a href="https://github.com/REPLACE_ME"><img src="assets/icons/social-github.png" height="20" alt="GitHub" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/REPLACE_ME"><img src="assets/icons/social-linkedin.png" height="20" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/REPLACE_ME"><img src="assets/icons/social-x.png" height="20" alt="X" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:REPLACE_ME@email.com"><img src="assets/icons/social-mail.png" height="20" alt="Email" /></a>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="18" alt="" />&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/000000" height="18" alt="" />&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/412991" height="18" alt="" />&nbsp;Codex&nbsp;&nbsp;&nbsp;&nbsp;
+  Herdr&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/000000" height="18" alt="" />&nbsp;Cursor
 </p>
 
-<br />
+## Projects
 
-<p>
-  hi, I'm mehdi, an AI & Full stack developer, I've been developing since I was 10, I create AI integrated full stack applications, developer tools, opensource projects and work with Python, LLMs, Generative AI, and RAG.
-</p>
-
-<p>
-  <a href="mailto:REPLACE_ME@email.com"><img src="assets/icons/btn-email.png" height="36" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/REPLACE_ME"><img src="assets/icons/btn-message.png" height="36" alt="Message" /></a>
-</p>
-
-<br />
-
-<p>
-  <img src="assets/icons/heading-skills.png" height="30" alt="Skills" />
-</p>
-
-<p>
-  <img src="assets/icons/skills-row-1.png" height="22" alt="Python JavaScript TypeScript React Next.js Tailwind CSS" />
-</p>
-<p>
-  <img src="assets/icons/skills-row-2.png" height="22" alt="shadcn FastAPI PostgreSQL Supabase Docker Vercel" />
-</p>
-<p>
-  <img src="assets/icons/skills-row-3.png" height="22" alt="Linux GitHub Codex Herdr Cursor" />
-</p>
-
-<br />
-
-<p>
-  <img src="assets/icons/heading-projects.png" height="30" alt="Projects" />
-</p>
-
-<p>
-  <a href="#"><img src="assets/icons/row-goal.png" height="58" alt="Goal — One workspace. Zero context switching." /></a>
-</p>
-
-<p>
-  <a href="#"><img src="assets/icons/row-verifypatch.png" height="58" alt="VerifyPatch — Patch verifier showing what evidence supports a change" /></a>
-</p>
-
-<p>
-  <a href="https://github.com/preferredev/Roblox-Coder-v2"><img src="assets/icons/row-roblox.png" height="58" alt="Roblox-Coder-v2 — Fine-tuned LLM for Roblox Studio and Luau" /></a>
-</p>
+<table>
+  <tr>
+    <td width="72" valign="middle">
+      <a href="https://usegoal.lol"><img src="assets/icons/icon-goal.png" width="52" alt="Goal" /></a>
+    </td>
+    <td valign="middle">
+      <a href="https://usegoal.lol"><b>Goal</b></a><br />
+      One workspace. Zero context switching.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" valign="middle">
+      <a href="https://verifypatch.xyz"><img src="assets/icons/icon-verifypatch.png" width="52" alt="VerifyPatch" /></a>
+    </td>
+    <td valign="middle">
+      <a href="https://verifypatch.xyz"><b>VerifyPatch</b></a><br />
+      Patch verifier showing what evidence supports a change
+    </td>
+  </tr>
+  <tr>
+    <td width="72" valign="middle">
+      <a href="https://github.com/preferedev/Roblox-Coder-v2"><img src="assets/icons/icon-roblox.png" width="52" alt="Roblox-Coder-v2" /></a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/preferedev/Roblox-Coder-v2"><b>Roblox-Coder-v2</b></a><br />
+      Fine-tuned LLM for Roblox Studio and Luau
+    </td>
+  </tr>
+</table>
