@@ -1,7 +1,7 @@
-I'm [mehdi](https://preferedev.xyz "16, from Pakistan, still in high school. Started coding at 10 with Luau in Roblox Studio."), a _founder & AI developer_. I design, build and ship my own AI products and open-source tools, mostly for developers.
+I'm [mehdi](https://preferedev.xyz "16, still in high school. Started coding at 10 with Luau in Roblox Studio."), a 16-year-old _AI engineer and founder_. I build production AI, from agentic platforms to open-source developer tools.
 
-Right now I'm building [Hybrid Bot](https://hybrid.preferedev.xyz "AI agent · One bot that gets the building done. Fully open source, MIT licensed."), one bot that gets the building done. I also made [Goal Workspace](https://usegoal.lol "Productivity app · One workspace, zero context switching."), [VerifyPatch](https://verifypatch.xyz "Developer tool · A patch verifier that shows what evidence supports a change.") and [a model that writes Luau](https://github.com/preferedev/Roblox-Coder-v2 "Fine-tuned model · Fine-tuned LLM for Roblox Studio and Luau.").
+Right now I'm building [Outlier Studio](https://x.com/outlierstudiohq), a studio that takes AI from idea to production for teams that want it done right. Along the way, I've shipped a range of open-source [projects](https://github.com/preferedev "projects on github") on GitHub and [models](https://huggingface.co/preferedev "models on huggingface") with over 15K downloads on Hugging Face, and I'm always working on what's next.
 
-You can contact me on [X](https://x.com/preferedev "@preferedev"), or [my email](mailto:mehdi@preferedev.xyz "mehdi@preferedev.xyz"), or you can find me on [GitHub](https://github.com/preferedev "@preferedev") and [LinkedIn](https://www.linkedin.com/in/preferedev "in/preferedev").
+Open to collaborations and roles. Contact via [X](https://x.com/preferedev "@preferedev"), [GitHub](https://github.com/preferedev "@preferedev"), [LinkedIn](https://www.linkedin.com/in/preferedev "in/preferedev"), or [my email](mailto:mehdi@preferedev.xyz "mehdi@preferedev.xyz").
 
 — [mehdi](https://preferedev.xyz)
